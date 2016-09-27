@@ -1,2 +1,2 @@
-# ghostpdl 9.19
+# ghostpdl 9.20
 
