@@ -1,4 +1,4 @@
-# ghostpdl 9.21
+# ghostpdl 9.22
 
 See:
-https://ghostscript.com/doc/9.21/Readme.htm
+https://ghostscript.com/doc/9.22/Readme.htm
