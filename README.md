@@ -1,7 +1,7 @@
-# ghostpdl 9.24
+# ghostpdl 9.25
 
 See:
-https://ghostscript.com/doc/9.24/Readme.htm
+https://ghostscript.com/doc/9.25/Readme.htm
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
