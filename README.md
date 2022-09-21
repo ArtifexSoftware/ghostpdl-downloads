@@ -1,7 +1,7 @@
-# ghostpdl 9.56.1
+# ghostpdl 10.0.0
 
 See:
-https://ghostscript.com/doc/9.56.1/Readme.htm
+https://ghostscript.readthedocs.io/en/gs10.0.0/
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
