@@ -1,4 +1,4 @@
-# ghostpdl 10.02.0
+# ghostpdl 10.02.1
 
 See:
 https://ghostscript.readthedocs.io/en/gs10.02.0/
