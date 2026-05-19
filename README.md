@@ -1,7 +1,7 @@
-# ghostpdl 10.07.0
+# ghostpdl 10.07.1
 
 See:
-https://ghostscript.readthedocs.io/en/gs10.07.0/
+https://ghostscript.readthedocs.io/en/gs10.07.1/
 
 Any bugs should be reported to:
 https://bugs.ghostscript.com/
